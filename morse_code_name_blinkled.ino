@@ -43,7 +43,7 @@ void longBlink() {
 }
 
 void shortBlink() {
-    digitalWrite(D6, HIGH);
+    	digitalWrite(D6, HIGH);
 
 	delay(250);
 
